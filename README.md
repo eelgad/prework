@@ -5,7 +5,7 @@ An iOS app built with Swift and Xcode that lets users introduce themselves in a 
 This app collects details like your name, school, year, pets, and whether you want more pets and displays it as an alert.
 
 App Walk-though
-https://i.imgur.com/73JKeHs.gif
+![](https://i.imgur.com/73JKeHs.gif)
 
 Required Features
 [x] 1. App displays an image of a school's logo
